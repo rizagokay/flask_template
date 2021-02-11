@@ -17,4 +17,5 @@ A simple flask app template ready to run
 ## Notes:
 - See config.py for some variables
 - Manage.py can be used for database migrations
-- Procfile can be used for HEROKU deployments
+- Procfile can be used for HEROKU deployments. 
+- Use gunicorn for socket.io <code>gunicorn -k gevent wsgi:app</code>
