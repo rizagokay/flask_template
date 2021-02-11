@@ -1,5 +1,5 @@
 # Sample Flask App
-A simple flask app ready to go
+A simple flask app template ready to run
 
 ## Instructions
 
