@@ -10,7 +10,7 @@ A simple flask app template ready to run
 3. Create a virtual environment (optional)<br>
 <code>python3 -m venv venv</code>
 4. Activate the virtual environment (optional)<br>
-<code>source bin venv/activate</code>
+<code>source venv/bin/activate</code>
 5. Install requirements<br>
 <code>pip3 install -r requirements.txt</code>
 6. Run <br>
